@@ -1,70 +1,11 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1440" alt="Screen Shot 2023-03-16 at 2 45 41 PM" src="https://user-images.githubusercontent.com/84875875/225637431-89b58a40-d022-4a39-82fa-da64a309b4d3.png">
+<img width="1440" alt="Screen Shot 2023-03-16 at 2 45 48 PM" src="https://user-images.githubusercontent.com/84875875/225637445-685a2a0e-8d88-4e4f-b25f-66f6b0bcf7c4.png">
+<img width="1440" alt="Screen Shot 2023-03-16 at 2 45 58 PM" src="https://user-images.githubusercontent.com/84875875/225637465-27c3c471-586d-414f-820b-95256b9b5b27.png">
+<img width="1440" alt="Screen Shot 2023-03-16 at 2 46 05 PM" src="https://user-images.githubusercontent.com/84875875/225637482-382ef6dd-624a-4de5-8449-82546dd9395a.png">
+<img width="1440" alt="Screen Shot 2023-03-16 at 2 46 18 PM" src="https://user-images.githubusercontent.com/84875875/225637498-cfe1c489-07c9-4c59-89d1-b2ff5d6e3aef.png">
+<img width="1440" alt="Screen Shot 2023-03-16 at 2 46 21 PM" src="https://user-images.githubusercontent.com/84875875/225637507-08c88a67-2505-4a40-80ab-38f12a8cec05.png">
+<img width="1440" alt="Screen Shot 2023-03-16 at 2 46 31 PM" src="https://user-images.githubusercontent.com/84875875/225637518-13bca9c0-1536-499c-b849-7590cea938a0.png">
+<img width="1440" alt="Screen Shot 2023-03-16 at 2 46 37 PM" src="https://user-images.githubusercontent.com/84875875/225637526-f79289ff-e140-46e6-8374-b3aff73f9c58.png">
+<img width="1440" alt="Screen Shot 2023-03-16 at 2 46 49 PM" src="https://user-images.githubusercontent.com/84875875/225637532-e737cf81-e9fe-4205-bed0-c448449aa7dc.png">
+<img width="1440" alt="Screen Shot 2023-03-16 at 2 47 39 PM" src="https://user-images.githubusercontent.com/84875875/225637543-b86577ca-e903-4f99-b63b-f24f6ac324c7.png">
+<img width="1440" alt="Screen Shot 2023-03-16 at 2 47 42 PM" src="https://user-images.githubusercontent.com/84875875/225637555-3cf1b4f1-36ef-48c0-ade0-925860dba89a.png">
